@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+}
+
+.dropdown-label {
+  font-size: larger;
+  margin: 10px;
+  padding-right: 4px;
+}
+
+.btn {
+  font-size: larger;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+  margin: 10px;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.image-container {
+  margin: 10px;
+  width: 350px;
+  padding: 10px;
+  border: 3px dashed black;
+}
+
+.image-container img {
+  object-fit: contain;
+}
